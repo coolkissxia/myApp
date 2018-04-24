@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "205721eb-7f25-48ab-a2a6-d825017066d5++505",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "205721eb-7f25-48ab-a2a6-d825017066d5++505" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "205721eb-7f25-48ab-a2a6-d825017066d5++505" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "B77D30AD-4A05-43E3-B9DA-65172A57090B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "205721eb-7f25-48ab-a2a6-d825017066d5++505" : "myApp\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "my-app",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "webapp\/my-app\/platforms\/ios\/my-app.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/192.168.1.116\/ideayapai.cqroad.upgrade",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "205721eb-7f25-48ab-a2a6-d825017066d5++505"
+    }
+  ]
+}
